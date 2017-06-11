@@ -2,18 +2,18 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               1 not 42
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages (and not using custom domains!)
-url:                 https://qwtel.com
+url:                 https://gauravanand25.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             //gauravanand25.github.io
 
 # A very short description  of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             Researcher in Artificial Intelligence and Deep Learning | Grad student in CS at UMass Amherst.
 
 # A longer description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
@@ -25,8 +25,8 @@ description:         >
 
 # This should be the same author as first in `_data/authors.yml`
 author:
-  name:              Florian Klampfer
-  email:             f.klampfer@gmail.com
+  name:              Gaurav Anand
+  email:             gauravanand25@gmail.com
 
 # Fallback image and color if not overwritten
 image:               /hydejack/assets/img/nap.jpg
@@ -38,11 +38,11 @@ font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
 font:                "'Noto Serif', Georgia, serif"
 
 # Remove to disable Google Anaylics
-google_analytics:    UA-84025722-2
+google_analytics:    UA-100856950-1
 
 # Setting a disqus shortname will enable the comment section on pages
 # that have `comments: true` in the front matter
-disqus_shortname:    qwtel
+disqus_shortname:    gauravanand25
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           © 2017. All rights reserved.
@@ -51,7 +51,7 @@ copyright:           © 2017. All rights reserved.
 permalink:           pretty
 
 # Pagination configuration (used by the `blog` layout)
-paginate:            5
+paginate:            7
 paginate_path:       '/page-:num/'
 
 # If you are updating form a previous verison of Hydejack, uncomment the two lines below,
