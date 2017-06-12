@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Introducing Hyde
 tags: [hyde]
 author: mdo
