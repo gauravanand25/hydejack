@@ -3,6 +3,7 @@ layout: list
 title: Hyde
 slug: hyde
 menu: true
+published: false
 order: 2
 description: >
   Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
