@@ -8,9 +8,7 @@ qwtel:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Gaurav Anand or [`@gauravanand25`](https://www.twitter.com/gaurav_anand25){:rel="me"}.
-
-    I'm ....
+    Hi, I'm Gaurav Anand. Twitter [`@gauravanand25`](https://www.twitter.com/gaurav_anand25){:rel="me"}.
 
   # This photo will be used in the about section
   picture:
