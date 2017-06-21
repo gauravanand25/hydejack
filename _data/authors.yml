@@ -14,10 +14,10 @@ qwtel:
 
   # This photo will be used in the about section
   picture:
-    src:             https://68.media.tumblr.com/c89123adb89ac80f583fd9595cbe7b11/tumblr_orvmi9UNg91wsdqgyo1_540.jpg
+    src:             https://68.media.tumblr.com/ee65b85c2e5be011d336f0ad6484e39f/tumblr_orvmi9UNg91wsdqgyo1_r1_540.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://68.media.tumblr.com/c89123adb89ac80f583fd9595cbe7b11/tumblr_orvmi9UNg91wsdqgyo1_540.jpg
+      1x:            https://68.media.tumblr.com/ee65b85c2e5be011d336f0ad6484e39f/tumblr_orvmi9UNg91wsdqgyo1_r1_540.jpg
       #2x:            https://qwtel.com/assets/img/me@2x.jpg
 
   # Social media icons in sidebar
