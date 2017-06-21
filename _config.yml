@@ -18,10 +18,8 @@ tagline:             Researcher in Artificial Intelligence and Deep Learning | G
 # A longer description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
-  [`@qwtel`{:rel="me"}](https://twitter.com/qwtel) from
-  [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  AI Researcher | Grad Student at UMass Amherst | Twitter
+  [`@gaurav_anand25`{:rel="me"}](https://twitter.com/gaurav_anand25).
 
 # This should be the same author as first in `_data/authors.yml`
 author:
