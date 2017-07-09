@@ -2,7 +2,8 @@
 layout: post
 title: 'Related Projects and Data Tables (v6.4)'
 tags: [hydejack]
-published: false
+published: true
+comments: true
 ---
 
 In this release I've added a "Other Projects" section to the bottom of each project page,
