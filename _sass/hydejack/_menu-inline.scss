@@ -20,6 +20,10 @@
   margin-left: -1.5rem;
   color: $gray!important;
 
+  &::after {
+    content: "\2630"; // ☰
+  }
+
   @media screen and (min-width: $break-point-2) {
     padding: 1.25rem 1.5rem;
     position: absolute;
@@ -35,7 +39,7 @@
   // }
 }
 
-.shadow-main {
+.animation-main {
   // opacity: 0;
   // will-change: opacity;
   pointer-events: none;

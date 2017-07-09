@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'v6: JavaScripten'
+title: 'JavaScripten (v6)'
 tags: [hydejack]
 description: >
   The last release made the theme fast in the eyes of Google, but not so much in the eyes of its readers.
@@ -9,10 +9,14 @@ description: >
 redirect_from: /2017/04/15/javascripten-beta/
 ---
 
-Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly. This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.
+Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.
+This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.
 
 ## Major
-Pages are now loaded and swapped through JavaScript. This has a number of effects. First of all, it looks cool, but the animations aren't just about aesthetics: They also help to hide the network time of fetching the next page, making the entire site feel faster. At the same time, the FOUC introduced in the last release will no longer occur (except on the initial page load).
+Pages are now loaded and swapped through JavaScript. This has a number of effects.
+First of all, it looks cool, but the animations aren't just about aesthetics:
+They also help to hide the network time of fetching the next page, making the entire site feel faster.
+At the same time, the FOUC introduced in the last release will no longer occur (except on the initial page load).
 
 * Most JS is now unified in the `_js` directory and written in ES2016.
 * The `blog-by-tag` layout has been renamed to `list`.
@@ -27,13 +31,16 @@ Pages are now loaded and swapped through JavaScript. This has a number of effect
 * Added `not-found` layout.
 * Added `redirect` layout
 
-See the [the migration guide](https://qwtel.com/hydejack/docs/6.3.0/migration/) for instructions on how to upgrade.
+See the [the migration guide](https://qwtel.com/hydejack/docs/migration/) for instructions on how to upgrade.
 
 ## Minor
-* The "accent" font (heading font) is now used for all headings. This gives the theme a "bolder" look and was necessary for the animation: link => heading.
+* The "accent" font (heading font) is now used for all headings.
+  This gives the theme a "bolder" look and was necessary for the animation: link => heading.
 * Changed default text font from "PT Serif" to "Noto Serif".
-* Added [CSS classes](https://qwtel.com/hydejack/docs/6.3.0/writing/) for styling markdown content.
-* Links have a new style. They now always display an underline to make the choice of the link color less critical (darker colors were hard to distinguish from regular text).
+* Added [CSS classes](https://qwtel.com/hydejack/docs/writing/) for styling markdown content.
+* Links have a new style.
+  They now always display an underline to make the choice of the link color less critical (darker colors were hard to
+  distinguish from regular text).
 * Made social media icons larger and easier to tap.
 * Social media icons are now also part of the "about" sections of a post.
 * Added support for a copyright notice at the bottom. Can be set via the config variable `copyright`.
@@ -54,6 +61,6 @@ See the [the migration guide](https://qwtel.com/hydejack/docs/6.3.0/migration/) 
 
 ***
 
-[Get *JavaScripten* on GitHub](https://github.com/qwtel/hydejack/releases/tag/v6.3.0)
+[Get *JavaScripten* on GitHub](https://github.com/qwtel/hydejack/releases/tag/v6.4.0)
 
 *[FOUC]: Flash of Unstyled Content

@@ -1,16 +1,13 @@
 ---
 layout: post
 published: false
-title: 'v4: Social Media Impocalypse'
+title: 'Social Media Impocalypse (v4)'
 tags: [hydejack]
 description: >
-  This release adds *a lot* of social media icons and introduces a new default layout. It also breaks things, hence a new major release number.
+  This release adds *a lot* of social media icons and introduces a new default layout.
+  It also breaks things, hence a new major release number.
 excerpt_separator: <!--more-->
 ---
-
-**NOTE**: This post is outdated and only included for legacy reasons.
-See the [Documentation](https://qwtel.com/hydejack/docs/6.3.0/) for up-to-date instructions.
-{:.message}
 
 ## Breaking
 * Structure of `_config.yml` has changed
@@ -21,6 +18,10 @@ See the [Documentation](https://qwtel.com/hydejack/docs/6.3.0/) for up-to-date i
 
 <!--more-->
 
+**NOTE**: This post is outdated and only included for legacy reasons.
+See the [Documentation](https://qwtel.com/hydejack/docs/) for up-to-date instructions.
+{:.message}
+
 ## New features
 * Added *a lot* of social media icons, configurable via `_config.yml`.
 * New `blog` layout. Classic, paginated.
@@ -30,7 +31,8 @@ See the [Documentation](https://qwtel.com/hydejack/docs/6.3.0/) for up-to-date i
 * Link underlines are now fixed-sized for all font sizes (no thicker lines for headlines, etc)
 
 ## Fixes
-* Correctly set the meta description field using either the `description` field or `post.excerpt` as a fallback (used to contain the unmodified markdown).
+* Correctly set the meta description field using either the `description` field or `post.excerpt` as a fallback (used
+  to contain the unmodified markdown).
 * Fixed various URL bugs relating to `site.baseurl`.
 
 ## Internal

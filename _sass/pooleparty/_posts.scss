@@ -9,6 +9,10 @@
   // li + li {
   //   margin-top: .25rem;
   // }
+  //
+  // > header {
+  //   margin-bottom: 2rem;
+  // }
 }
 
 // Blog post or page title
@@ -24,11 +28,14 @@
   // color: $gray;
 }
 
-.dingbat::after {
-  content: "❖";
+hr.dingbat {
+  border: 0;
+}
+
+hr.dingbat::after {
+  content: "\2756"; // ❖
   display: block;
   text-align: center;
-  margin-top: 1.5rem;
   font-size: 1.5rem;
   color: #ddd;
 }
