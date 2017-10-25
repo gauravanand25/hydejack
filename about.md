@@ -13,4 +13,4 @@ I have been working at Adobe, India mainly on Aesthetic Layout Recommendation fo
 
 [Codenation]: http://codenation.co.in/
 [Trilogy]: https://en.wikipedia.org/wiki/Trilogy_(company)
-[Here's]: https://www.dropbox.com/s/xs1eq7ivm7v58od/cv-one-page.pdf
+[Here's]: https://gauravanand25.github.io/cv.html
