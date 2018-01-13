@@ -40,6 +40,7 @@ font:                "'Noto Serif', Georgia, serif"
 
 # Remove to disable Google Anaylics
 google_analytics:    UA-100856950-1
+
 # The string encoding what fonts to fetch from Google Fonts.
 # See: https://qwtel.com/hydejack/docs/configuration/
 google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
